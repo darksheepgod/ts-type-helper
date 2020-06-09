@@ -1,0 +1,24 @@
+{
+  "name": "@rossfuin/ts-type-helper",
+  "version": "0.1.0",
+  "description": "typescript type utils",
+  "main": "src/index.ts",
+  "files": [
+    "src/**/*.ts",
+    "README.md",
+    "CHANGELOG.md"
+  ],
+  "scripts": {
+    "test": "tsc --noEmit"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/darksheepgod/ts-type-helper.git"
+  },
+  "author": "Rossfuin",
+  "license": "ISC",
+  "devDependencies": {},
+  "peerDependencies": {
+    "typescript": "^3.9.5"
+  }
+}
